@@ -13,8 +13,6 @@ Sem mais delongas, segue a lista abaixo.
 
 ### Javascript
 
-* [Curso de JavaScript (Universidade XTI)](https://www.youtube.com/playlist?list=PL48981947BAC7C172)
-* [Curso de jQuery (Universidade XTI)](https://www.youtube.com/playlist?list=PL0BF91DBECE5F52F9)
 * [Organizando o Javascript (Nando Vieira)](https://www.youtube.com/watch?v=x9vDemjWmZQ)
 * [Eventos: do simples ao objeto (Jean Carlo Emer)](https://www.youtube.com/watch?v=rGlF5OgD_c0)
 * [JavaScript firme: módulos com RequireJS e BDD com Jasmine](http://www.infoq.com/br/presentations/javascript-firme)
@@ -57,14 +55,13 @@ Sem mais delongas, segue a lista abaixo.
 * [A semântica do HTML 5 (Diego Eis)](https://www.eventials.com/pt-br/locaweb/diego-eis-a-semantica-do-html-5/)
 * [Dominando HTML5 offline com AppCache (Sérgio Lopes)](http://www.youtube.com/watch?v=sVBSNJznDF0)
 * [Técnicas e organização de CSS (Glauber Ramos)](http://www.youtube.com/watch?v=LmUISr5miy4)
-* [Curso de xHTML (Universidade XTI)](https://www.youtube.com/playlist?list=PL58E7AE1ABE557AE4)
-* [Curso de CSS (Universidade XTI)](https://www.youtube.com/playlist?list=PL818DE9B26FECFB02)
 * [Um futuro chamado Web Components (Zeno Rocha)](https://www.youtube.com/watch?v=7Q0-E_rZ_Cc)
 * [Performance em CSS (Bernard De Luna)](http://www.youtube.com/watch?v=m1iV2C44Duc)
 * [Responsive design e suas aplicacões (CPBR6)](http://www.youtube.com/watch?v=m1iV2C44Duc)
-* [Como ganhar performance de front-end em aplicações modernas (Iraê Lambert de Carvalho)] (http://www.youtube.com/watch?v=b7CfeEGYoSg)
+* [Como ganhar performance de front-end em aplicações modernas (Iraê Lambert de Carvalho)](http://www.youtube.com/watch?v=b7CfeEGYoSg)
 
 ### Web Mobile/Acessibilidade
+
 * [Uma tonelada de Truques de Web Mobile (Sérgio Lopes)](http://www.youtube.com/watch?v=aH9eVa2cTcM)
 * [Responsive Web Workflow (Átila Fassina)](https://www.youtube.com/watch?v=Rgfngu2kpNo)
 * [Acessibilidade na web modo Jedi Master (Reinaldo Ferraz)](https://www.youtube.com/watch?v=MMLQioPwbik)
@@ -115,7 +112,7 @@ Sem mais delongas, segue a lista abaixo.
 
 * [Press Start (Vitor Carlos)](http://www.youtube.com/watch?v=fB3TvRRfLTA)
 * [JavaScript e os Jogos no Browser (Willian Molinari - PotHix)](http://www.youtube.com/watch?v=TbgODPU2tro)
-* [Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis)](http://www.youtube.com/watch?v=Prkyd5n0P7k "Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis)")
+* [Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis)](http://www.youtube.com/watch?v=Prkyd5n0P7k "Google I/O 2012 - GRITS: PvP Gaming with HTML5 (Colton McAnlis ")
 
 ## Marketing Digital
 
